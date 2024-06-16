@@ -1,7 +1,6 @@
 package com.patika.weatherapi.controller;
 
 import com.patika.weatherapi.model.WeatherRequest;
-import com.patika.weatherapi.model.WeatherResponse;
 import com.patika.weatherapi.model.dto.WeatherForecast;
 import com.patika.weatherapi.service.WeatherService;
 import jakarta.validation.Valid;
@@ -30,4 +29,5 @@ public class WeatherController {
 //        WeatherResponse response = weatherService.getWeatherforDaily(request);
 //        return ResponseEntity.ok(response);
 //    }
+
 }
