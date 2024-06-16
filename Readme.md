@@ -24,7 +24,7 @@ http://localhost:8080/api/weather  bu endpoint'e
 "city": "London"
 }
 
-request de city ve hour var. isteğe hour da ekleyebilirsiniz o zaman sadece o saata ait havadurumu raporu olacaktır.
+request de city ve hour var. isteğe hour da ekleyebilirsiniz o zaman sadece o saata ait havadurumu raporu olacaktır. Aylık havadurumunu oluşturdum ancak free planda max 7 gün geçmişe gidiyordu. o yüzden sadece hadtalık ve günlük response oluşturdum.
 yukardaki gibi şekilde istek atabilirsiniz. yukardaki request'in Response'u aşşağdadır:
 
 {
