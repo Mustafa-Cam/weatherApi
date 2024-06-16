@@ -18,7 +18,7 @@ projede java 22 ve spring 3.0.0 kullanıldı. java 21 için çalışmayabilir.
 
 # postman isteği
 
-http://localhost:8080/api/weather  bu endpoint'e 
+http://localhost:8080/api/weather  bu endpoint'e (get isteği)
 
 {
 "city": "London"
