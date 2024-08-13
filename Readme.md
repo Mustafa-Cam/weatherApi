@@ -66,6 +66,8 @@ yukardaki gibi şekilde istek atabilirsiniz. yukardaki request'in Response'u aş
 ]
 }
 },
+
+
 "weeklyForecast": {
 "location": {
 "name": "London",
